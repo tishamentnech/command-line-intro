@@ -17,9 +17,6 @@ The Apprentice framework is composed of 4 primary components.
 4. Instructors notes
 --->
 
-## Usage
-
-
 ## Licensing
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
