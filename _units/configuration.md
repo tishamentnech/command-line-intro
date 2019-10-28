@@ -7,31 +7,10 @@ duration: 10
 tutorial: true
 instructors_notes: true
 description: |
-  Change the configuration settings for your workshop.
+  This workshop is targeted to using a Unix shell. If participants are using a Windows machine they will need to install a Unix Shell of some kind.
 instructors_note: |
-  Emphasize that the server needs to be restarted with any change in 
-  `_config.yml`.
+  If participants are using Windows they will need to install a interface. Windows 10 allows for a Unix Shell to be installed. Git for Windows is an option. There is also a Bash shell command line tool for windows. Windows users can also install a Unix/Linux emulator. 
 
----
-
-This is some extra markdown.
-This is still the same line and paragraph.
-
-The only way to make a new paragraph is to make two line returns.
-
-*This is Italics*
-
-**Bold**
-
-__Alternative bold__
-
-_Italics_
-
-**_bold and italic _**
-
-<div>
-  <h1> HTML code</h1>
-</div>
 
 ```ruby
  ThisObject.function param
@@ -48,17 +27,17 @@ we'll just change the most important ones. Make the changes below.
 
 ```yml
 
-    title: <your workshop name>
+    title: Introduction to Command Line
     
-    description: <describe your workshop>
+    description: Learn how to navigate your computer and manipulate files using the command line interface. 
     
     # Multiple authors go on the same line, just format how you like.
     # Same with companyies
     author:
-      name: <your name(s)
+      name: Tisha Mentnech & Mira Waller
       # url:  http://example.com/
       company:
-          name: < your orgnization(s)
+          name: NC State University
           # url:  http://example.com/
     
     # Any value is ok, Beginner|Intermediate|Advanced are recommended, required 
@@ -67,14 +46,8 @@ we'll just change the most important ones. Make the changes below.
     # This needs to be set to your repository name, or it won't work on GitHub.
     # If you are deploying elsewhere it may not be necessary.
     # It is overridden if you are working locally when you start the server
-    baseurl: "/repo_name"
+    baseurl: "/command-line-intro"
 ```
-
-If you are working locally restart your server to see the changes, which
-should be evident on your workshop homepage. If you are working directly 
-on GitHub pages, there server restarts automatically and may take a few minutes.
-
-Some of the other settings will be dealt with in future units.
     
 
 
