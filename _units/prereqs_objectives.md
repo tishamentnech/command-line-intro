@@ -28,11 +28,9 @@ Just add a line for each prerequisite or objective in the appropriate file.
   # - Ability to uncomment these lines
   
   # In _data/objectives.yml
-  - Update this in `_data/objectives.yml`
-  - Create your own apprentice workshop
-  - Here are some more
-  - Microdosing occupy glossier
-  - You need a little dummy text for your mockup
+- Be able to define what a command line interface (CLI) is
+- Learn reasons why the CLI can be useful
+- Learn and practice the most common UNIX commands involving file manipulation
 ```
 
 If you modify these in your instance and go to the home page you should
