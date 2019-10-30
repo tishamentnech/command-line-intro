@@ -9,8 +9,6 @@ instructors_notes: true
 description: |
  Prerequisites & objectives for the session
   
-
-
 ---
 ### Prerequisites
 - Ability to use a Unix shell for the duration of the workshop
