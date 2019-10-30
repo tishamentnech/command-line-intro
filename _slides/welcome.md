@@ -1,12 +1,10 @@
 ---
 
-order: 104
+order: 1
 
 ---
 
-## Welcome
-
-Welcome to Apprentice and the jekyll-reveal.js example presentation.
+## Introduction to the Command Line
 
 
 
